@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![React 18.2](https://img.shields.io/badge/React-18.2-blue) ![Vite 4.3](https://img.shields.io/badge/Vite-4.3-purple) ![TailwindCSS 3.3](https://img.shields.io/badge/TailwindCSS-3.3-cyan)
 
-> **The World's Most Advanced Browser-Based AI Assistant** — A self-contained, offline-first chatbot with context awareness, advanced math, psychological analysis, and predictive reasoning. Designed to run in the browser with zero external runtime dependencies.
+> **Browser-Based AI Assistant** — A self-contained, offline-first chatbot with context awareness, advanced math, psychological analysis, and predictive reasoning. Designed to run in the browser with zero external runtime dependencies.
 
 Live demo: [https://sparrow-pixeleye.github.io/apratim-s-ai-2.0](https://sparrow-pixeleye.github.io/apratim-s-ai-2.0)
 
